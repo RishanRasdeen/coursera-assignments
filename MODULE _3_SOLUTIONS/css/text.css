@@ -1,0 +1,59 @@
+#Chicken-cc,.Chicken-color{
+	background-color: #c68c53;
+}
+
+#Beef-cc,.Beef-color {
+	background-color: #cc0000;
+
+}
+
+#Sushi-cc,.Sushi-color {
+	background-color: #6699ff;
+}
+
+p {
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 10px;
+}
+
+.Chicken-color {
+	color: red;
+	font-size: 130%;
+}
+
+.Beef-color {
+	color: blue;
+	font-size: 150%;
+}
+
+.Sushi-color {
+	color: brown;
+	font-size: 150%;
+}
+
+.topic {
+	font-size: 150%;
+}
+
+.navbar-brand {
+	font-size: 200%;
+	color: #FFD700 !important;
+
+}
+.navbar-light {
+	color: #FFD700 !important;
+}
+
+#Sushi-cc,#Chicken-cc,#Beef-cc {
+	
+	margin-bottom: 20px;
+}
+
+h2 {
+	margin-bottom: 30px;
+}
+
+.bg-light {
+	background-color: #3f31a8 !important;
+}
